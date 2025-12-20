@@ -42,8 +42,7 @@ export default function Footer() {
         </p>
         
         <div className="mt-6 text-center text-xs leading-5 text-gray-500">
-          <p>Approval AI Corporation | 1239 Broadway Floor 9, New York, NY 10001</p>
-          <p className="mt-2">NMLS #2751459 | Equal Housing Opportunity</p>
+          <p>123 MG Road<br/>Bangalore, Karnataka 560001<br/>+91 80 1234 5678<br/>Mon-Sat, 9am-6pm IST<br/>hello@approvalai.com<br/>We'll respond within 24 hours</p>
         </div>
       </div>
     </footer>
